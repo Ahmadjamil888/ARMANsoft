@@ -13,14 +13,6 @@ Arman Soft is a business-focused web application developed using the Laravel fra
 - Blade templating with Laravel Breeze
 - Structured codebase and MVC organization
 
-## Screenshots
-
-**Frontend View**  
-![Frontend](https://raw.githubusercontent.com/Ahmadjamil888/professional-e-commerce/refs/heads/main/public/screencapture-127-0-0-1-8000-2025-06-19-13_35_55.png)
-
-**Admin Panel**  
-![Admin Panel](https://raw.githubusercontent.com/Ahmadjamil888/professional-e-commerce/refs/heads/main/public/admin-panel.png)
-
 ## Installation
 
 1. Clone the repository:
